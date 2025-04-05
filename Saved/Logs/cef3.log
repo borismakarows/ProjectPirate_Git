@@ -1,1 +1,15 @@
-[0329/001632.922:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0329/015848.806:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0329/021514.711:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0329/021514.720:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0329/021520.864:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0329/021520.872:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0329/021525.865:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0329/021525.875:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0329/021530.868:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0329/021530.877:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0329/021555.964:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0329/021555.986:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0329/021600.968:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0329/021601.000:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0329/021605.970:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0329/021606.010:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
