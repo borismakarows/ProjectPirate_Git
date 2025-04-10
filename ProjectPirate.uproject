@@ -42,6 +42,10 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "AlembicHairImporter",
+			"Enabled": true
 		}
 	]
 }
