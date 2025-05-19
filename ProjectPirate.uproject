@@ -21,7 +21,7 @@
 		},
 		{
 			"Name": "ProjectCleaner",
-			"Enabled": false,
+			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4d7f5dc837fc4b009bb91e678adf9fd0"
 		},
 		{
@@ -45,6 +45,10 @@
 		},
 		{
 			"Name": "AlembicHairImporter",
+			"Enabled": true
+		},
+		{
+			"Name": "PreLoadScreenMoviePlayer",
 			"Enabled": true
 		}
 	]
